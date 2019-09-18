@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  BMR
+
+  Created by Evgeniy Mikhaylov on 22.10.13.
+  Copyright (c) 2013 Evgeniy Mikhaylov. All rights reserved.
+*/
+
+"num1" = "Индекс Брока";
+"num2" = "Индекс Брейтмана";
+"num3" = "Индекс Борнгардта";
+"num4" = "Индекс Давенпорта";
+"num5" = "Индекс Одера";
+"num6" = "Индекс Ноордена";
+"num7" = "Индекс Татоня";
+"num8" = "Метод Лоренца";
+
+
+"form1" = "рост(см) - 100 -/+ 10%, необходима коррекция по конституциональному типу";
+"form2" = "рост(см) х 0.7 - 50 кг";
+"form3" = "рост(см) х S(см) / 240, S - окружность грудной клетки";
+"form4" = "масса(г) / (рост(см) в квадрате). Превышение показателя выше 3,0 свидетельствует о наличии ожирения.";
+"form5" = "S(см) х 2 - 100, S - расстояние от темени до симфиза";
+"form6" = "рост(см) х 420/1000";
+"form7" = "рост(см) - (100 + (рост(см) - 100)/20)";
+"form8" = "рост(см) - 100 - (рост(см) - 150)/2";
+
+"button1" = "Calculate";
+"button2" = "About BMI";
+"button3" = "Next";
+"button4" = "Back";
+
+"title1" = "BMI";
+"title2" = "About BMI";
+"title3" = "Ideal body weight";
+
+
+"value1" = "Very severely underweight";
+"value2" = "Severely underweight";
+"value3" = "Underweight";
+"value4" = "Normal (healthy weight)";
+"value5" = "Overweight";
+"value6" = "Obese Class I (Moderately obese)";
+"value7" = "Obese Class II (Severely obese)";
+"value8" = "Obese Class III (Very severely obese)";
