@@ -299,6 +299,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 				ru,
@@ -545,7 +546,7 @@
 				GCC_PREFIX_HEADER = "BMR/BMR-Prefix.pch";
 				INFOPLIST_FILE = "BMR/BMR-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kateapp.bmr;
 				PRODUCT_NAME = BMI;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -567,7 +568,7 @@
 				GCC_PREFIX_HEADER = "BMR/BMR-Prefix.pch";
 				INFOPLIST_FILE = "BMR/BMR-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kateapp.bmr;
 				PRODUCT_NAME = BMI;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
